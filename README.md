@@ -1,6 +1,6 @@
-# Company Scoring Methodology [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Live Demo](https://img.shields.io/badge/Live_Demo-118M+_companies-blue)](https://score.get-scala.com)
+# Company Scoring Methodology [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Live Demo](https://img.shields.io/badge/Live_Demo-244M+_companies-blue)](https://score.get-scala.com)
 
-> An open methodology for scoring business health, reliability, and financial risk. Used by [S.C.A.L.A. Score](https://score.get-scala.com) to rate 118M+ companies across 40+ countries.
+> An open methodology for scoring business health, reliability, and financial risk. Used by [S.C.A.L.A. Score](https://score.get-scala.com) to rate 244M+ companies across 40+ countries.
 
 ## Overview
 
@@ -104,7 +104,7 @@ Try the scoring methodology on real companies:
 
 | Feature | S.C.A.L.A. Score | D&B | Moody's/BvD | CreditSafe |
 |---------|-----------------|-----|-------------|------------|
-| Companies covered | 118M+ | 500M+ | 400M+ | 365M+ |
+| Companies covered | 244M+ | 500M+ | 400M+ | 365M+ |
 | Price per report | **Free** | $100-500 | Enterprise | $50-200 |
 | Methodology transparent | **Yes** | No | No | No |
 | API access | Coming soon | Paid | Paid | Paid |
@@ -147,7 +147,7 @@ When data for a scoring factor is unavailable:
 
 ## Try It
 
-Search any company for free at **[score.get-scala.com](https://score.get-scala.com)** — no signup, no credit card, 118M+ companies.
+Search any company for free at **[score.get-scala.com](https://score.get-scala.com)** — no signup, no credit card, 244M+ companies.
 
 ## Contributing
 
