@@ -1,6 +1,6 @@
-# Company Scoring Methodology [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Live Demo](https://img.shields.io/badge/Live_Demo-244M+_companies-blue)](https://score.get-scala.com)
+# Company Scoring Methodology [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Live Demo](https://img.shields.io/badge/Live_Demo-249M+_companies-blue)](https://score.get-scala.com)
 
-> An open methodology for scoring business health, reliability, and financial risk. Used by [S.C.A.L.A. Score](https://score.get-scala.com) to rate 244M+ companies across 40+ countries.
+> An open methodology for scoring business health, reliability, and financial risk. Used by [S.C.A.L.A. Score](https://score.get-scala.com) to rate 249M+ companies in 264 countries.
 
 ## Overview
 
@@ -104,7 +104,7 @@ Try the scoring methodology on real companies:
 
 | Feature | S.C.A.L.A. Score | D&B | Moody's/BvD | CreditSafe |
 |---------|-----------------|-----|-------------|------------|
-| Companies covered | 244M+ | 500M+ | 400M+ | 365M+ |
+| Companies covered | 249M+ | 500M+ | 400M+ | 365M+ |
 | Price per report | **Free** | $100-500 | Enterprise | $50-200 |
 | Methodology transparent | **Yes** | No | No | No |
 | API access | Coming soon | Paid | Paid | Paid |
@@ -147,7 +147,7 @@ When data for a scoring factor is unavailable:
 
 ## Try It
 
-Search any company for free at **[score.get-scala.com](https://score.get-scala.com)** — no signup, no credit card, 244M+ companies.
+Search any company for free at **[score.get-scala.com](https://score.get-scala.com)** — no signup, no credit card, 249M+ companies.
 
 ## Contributing
 
@@ -158,3 +158,7 @@ Contributions are welcome! If you have suggestions for improving the scoring met
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This methodology is licensed under CC BY 4.0. You are free to use and adapt it with attribution.
+
+## Data coverage
+
+S.C.A.L.A. Score holds about 249 million company records from public registries and open data in 264 countries (figure shown on [score.get-scala.com](https://score.get-scala.com), checked 03/11/2026). Financial fields such as revenue, employees or score are present only where the source publishes them, which is a minority of the records; always check each field before relying on it.
